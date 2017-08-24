@@ -1,0 +1,15 @@
+[submodule "SMHackSubProcessTracer"]
+	path = SMHackSubProcessTracer
+	url = https://github.com/SMHackProject/SMHackSubProcessTracer
+[submodule "SMHackCore"]
+	path = SMHackCore
+	url = https://github.com/SMHackProject/SMHackCore
+[submodule "SMHackMiniLoader"]
+	path = SMHackMiniLoader
+	url = https://github.com/SMHackProject/SMHackMiniLoader
+[submodule "SMHackServer"]
+	path = SMHackServer
+	url = https://github.com/SMHackProject/SMHackServer
+[submodule "SMHackCOMTracer"]
+	path = SMHackCOMTracer
+	url = https://github.com/SMHackProject/SMHackCOMTracer
